@@ -7,7 +7,7 @@
 
 Practical skills you will gain from working on this task:
 
-VisualisationData AnalysisData Interpretation.
+Visualisation, Data Analysis, Data Interpretation.
 
 ## Task 2
 
@@ -16,7 +16,7 @@ VisualisationData AnalysisData Interpretation.
 
 Practical skills you will gain from working on this task:
 
-Data VisualisationCharts & GraphsVisual Basics.
+Data Visualisation, Charts & Graphs, Visual Basics.
 
 ## Task 3
 
@@ -25,7 +25,7 @@ Data VisualisationCharts & GraphsVisual Basics.
 
 Practical skills you will gain from working on this task:
 
-Data VisualisationDashboardData Cleanup.
+Data Visualisation, Dashboard, Data Cleanup.
 
 ## Task 4
 
@@ -34,4 +34,4 @@ Data VisualisationDashboardData Cleanup.
 
 Practical skills you will gain from working on this task:
 
-Analysis & PresentationEffective CommunicationAnalytics & Insights.
+Analysis & Presentation, Effective Communication, Analytics & Insights.
